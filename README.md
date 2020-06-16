@@ -31,17 +31,23 @@
 
 **Question**：描述脚手架实现的过程，并使用 Node.js 完成一个自定义的小型脚手架工具
 
-**Answer**：
+**Answer**：脚手架实现过程：
+
+- 自定义Generator
+- 在templates中定义项目结构
+- 通过EJS语法定义配置项
+- 通过prompting问询获取配置信息
+- 通过writing输出项目结构
+- 发布脚手架
 
 ### 第二题
 
 **Question**：尝试使用 Gulp 完成项目的自动化构建
 
-**Answer**：
+**Answer**：代码中实现
 
 ### 第三题
 
 **Question**：使用 Grunt 完成项目的自动化构建
 
-**Answer**：
-
+**Answer**：代码中实现
